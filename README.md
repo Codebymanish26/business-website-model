@@ -1,14 +1,10 @@
-﻿# 🌐 Business Website Model
+# 🚀 business-website-model
 
-Corporate business landing page built with HTML5, CSS3, and JavaScript.
+Project by **spghimire** | Official Website: [spghimire.com.np](https://spghimire.com.np)
 
-## 🚀 Live Demo
-👉 **[Open Website Live](https://codebymanish26.github.io/business-website-model/)**
-
-## 🛠️ Built With
-- **HTML5**
-- **CSS3**
-- **JavaScript**
+## 🌐 Official Links
+* 🔗 **Personal Website:** [https://spghimire.com.np](https://spghimire.com.np)
+* 💻 **Developer:** spghimire
 
 ---
-*Created by [CodeByManish](https://github.com/Codebymanish26)*
+*Curated & developed by [spghimire](https://spghimire.com.np)*
